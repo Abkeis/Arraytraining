@@ -1,0 +1,15 @@
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/bin/Debug/net6.0/Arraytraining
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/bin/Debug/net6.0/Arraytraining.deps.json
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/bin/Debug/net6.0/Arraytraining.runtimeconfig.json
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/bin/Debug/net6.0/Arraytraining.dll
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/bin/Debug/net6.0/Arraytraining.pdb
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.csproj.AssemblyReference.cache
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.AssemblyInfoInputs.cache
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.AssemblyInfo.cs
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.csproj.CoreCompileInputs.cache
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.dll
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/refint/Arraytraining.dll
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.pdb
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/Arraytraining.genruntimeconfig.cache
+/Users/nouralddenalmoqry/Projects/Arraytraining/Arraytraining/obj/Debug/net6.0/ref/Arraytraining.dll
